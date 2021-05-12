@@ -1,2 +1,2 @@
 # FreshDesk-API-MartaS
-Programa Python para gestioanr 
+Programa Python para gestionar API de FreshDesk
