@@ -1,9 +1,9 @@
 import requests
 import json
 
-api_key = "yVo3CHnI7VFYP9MHST"
-domain = "omniaccesssandbox"
-password = "Markimoo22@@"
+api_key = ""
+domain = ""
+password = ""
 
 # Return the tickets that are new or opend & assigned to you
 # To fetch all tickets remove the filter query param
