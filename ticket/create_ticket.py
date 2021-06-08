@@ -1,9 +1,9 @@
 import requests
 import json
 
-api_key = "yVo3CHnI7VFYP9MHST"
-domain = "omniaccesssandbox"
-password = "Markimoo22@@"
+api_key = ""
+domain = ""
+password = ""
 
 headers = { 'Content-Type' : 'application/json' }
 
@@ -13,7 +13,7 @@ ticket = {
     'email' : 'test@test.com',
     'priority' : 1,
     'status' : 2,
-    'cc_emails' : ['marta.segui@omniaccess.com', 'support@omniaccesssandbox.freshdesk.com'],
+    'cc_emails' : ['mail@mail.com', 'support@mail.freshdesk.com'],
     'type' : 'Request',
     'custom_fields': { 'cf_scope':'Information Technologies', 
                       'cf_service549480':'Applications',
