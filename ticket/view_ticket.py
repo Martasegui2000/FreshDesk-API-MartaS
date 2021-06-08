@@ -1,9 +1,9 @@
 import requests
 import json as json
 
-api_key = "yVo3CHnI7VFYP9MHST"
-domain = "omniaccesssandbox"
-password = "Markkimoo22@@"
+api_key = ""
+domain = ""
+password = ""
 
 # Id of the ticket to be updated
 ticket_id = '1042'
