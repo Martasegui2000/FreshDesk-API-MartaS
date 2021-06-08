@@ -1,9 +1,9 @@
 import requests
 import json
 
-api_key = "yVo3CHnI7VFYP9MHST"
-domain = "omniaccesssandbox"
-password = "x"
+api_key = ""
+domain = ""
+password = ""
 
 # id of the ticket to add a note
 ticket_id = '57'
