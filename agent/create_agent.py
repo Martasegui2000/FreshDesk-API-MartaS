@@ -1,9 +1,9 @@
 import requests
 import json
 
-api_key = "yVo3CHnI7VFYP9MHST"
-domain = "omniaccesssandbox"
-password = "Markimoo22@@"
+api_key = ""
+domain = ""
+password = ""
 
 agent_info = { "name" : "Test API User2", 
                 "email" : "test_api_user2@example.com",
